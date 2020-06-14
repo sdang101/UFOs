@@ -17,4 +17,4 @@
 ![WebPage](https://github.com/sdang101/UFOs/blob/master/static/images/WebPage.png)
 
 # Further Development
-- data.js file has other key values pairs that's not included in our filter data. I suggest adding "durationMintues" and "comments" to the filters on the site to give the user more information.
+- data.js file has other key values pairs that's not included in our "Filter Search". I suggest adding "durationMintues" and "comments" to the filters on the site to give the user more information.
